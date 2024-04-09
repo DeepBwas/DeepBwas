@@ -2,7 +2,7 @@
 
 # Hello, I'm [Deep Biswas][website] 👋
 
-### I'm a Web & Software Developer!!
+### I'm a Software & Web Developer!!
 
 - 📖 I am a student at Georgian College, ON, Canada.
 - 🔭 I am working on a JavaScript, HTML and CSS.
