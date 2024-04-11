@@ -5,7 +5,7 @@
 ### I'm a Software & Web Developer!!
 
 - 📖 I am a student at Georgian College, ON, Canada.
-- 🔭 I am working on a JavaScript, HTML and CSS.
+- 🔭 I am working on JavaScript, HTML and CSS.
 - 🌱 I’m currently learning ASP.NET.😬
 - 👯 I’m looking forward to learn Reactjs and TypeScript.
 - 🥅 2024 Goal: Learn and contribute to Open Source projects.
