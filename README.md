@@ -4,12 +4,12 @@
 
 ### I'm a Software & Web Developer!!
 
-- 📖 I am a student at Georgian College, ON, Canada.
-- 🔭 I am working on C#, HTML and CSS.
-- 🌱 I’m currently learning Microsoft Blazor.😬
-- 👯 I’m looking forward to learn Reactjs and TypeScript.
-- 🥅 2024 Goal: Learn and contribute to Open Source projects.
-- 🤔 I want learn back-end web development and be a full-stack developer.
+- 🔭 I am working on my life and family.
+- 🔥 I specialize in creating complex softwares.
+- 🌱 I’m currently learning various JS frameworks.😬
+- 👯 I’m looking forward to learn Kotlin and Rust.
+- 🥅 2025 Goal: Learn and contribute to Open Source projects.
+- 🤔 I want learn game development and be a AAA game developer.
 - ⚡ Fun fact: I love nature, art, cars, music and gaming.
 
 
