@@ -1,8 +1,8 @@
 
 
-# Hello, I'm [Deep Biswas][website] 👋
+# Hey there, I'm Deep
 
-### I'm a Software & Web Developer!!
+### I'm an explorer, gamer and programmer. 
 
 - 🔭 Working on my life and family
 - 🤖 Coding is one of my passion
