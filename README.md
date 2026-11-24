@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,unrealengine,unity,cs,cpp,blendr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unrealengine,unity,visualstudio,cs,cpp,blendr)](https://skillicons.dev)
 
 
 
