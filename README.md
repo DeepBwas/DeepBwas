@@ -4,8 +4,8 @@
 
 ### I'm an explorer, gamer and programmer. 
 
-- 🔭 Working on my life and family
-- 🤖 Coding is one of my passion
+- ♥️ Working on life and family
+- 🤖 Coding helps me build stuff
 
 ### Languages and Tools:
 
